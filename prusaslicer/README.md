@@ -1,3 +1,3 @@
-# BIQU BQ Configuration for prusaslicer
+# BIQU B1 Configuration for prusaslicer
 
-copy to your printer directory
+copy to your printer directory of prusaslicer: 
