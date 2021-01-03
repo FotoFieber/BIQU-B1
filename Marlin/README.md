@@ -3,6 +3,9 @@
 Tested with Marlin 2.0.x bugfix (per 2.0.8)
 
 Modifications:
-- enable showing gcode-files when inserting SD card
+- use BL touch as z-endstop
+- disable z-endstop switch
+- add linear advance
+- enable smart filament sensor (attached to skr board directly)
 - added smart filament sensor
 - added TMC2209 for x/y with sensorless homing
